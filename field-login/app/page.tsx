@@ -177,8 +177,8 @@ export default function SignUpPage() {
         }`}
       >
         <Image
-          src="/images/idyllic-20mountain-20cabin-20bavarian-20alps.jpg"
-          alt="Mountain cabin landscape"
+          src="/images/fbi-badges.jpg"
+          alt="FBI Special Agents"
           fill
           className="object-cover"
           priority
